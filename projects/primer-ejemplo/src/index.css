@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  display: grid;
+  background-color: rgb(41, 39, 39);
+  place-content: center;
+  min-height: 100vh;
+  
+}
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
